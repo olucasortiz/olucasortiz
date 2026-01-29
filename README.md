@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">Java Developer<br>- 📚Information Systems Student at UNOESTE<br>- 🌱Currently studying Java, Spring and React</p>
+<p align="left">Java Developer<br>- 📚Information Systems Student at UNOESTE<br>- 🌱Currently studying Node.js</p>
 
 ###
 
