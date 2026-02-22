@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">Java Developer<br>- 📚Information Systems Student at UNOESTE<br>- 🌱Currently studying Node.js</p>
+<p align="left">Software Engineer<br>- 📚Information Systems Student at UNOESTE<br>- 🌱Focusing on Distributed Systems and Cloud Architecture</p>
 
 ###
 
